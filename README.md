@@ -33,10 +33,6 @@ The dashboard helps identify factors affecting customer churn, including:
 - Combo Charts
 - Customer Churn Analysis
 
-## Dashboard Preview
-
-![Dashboard](Dashboard.png)
-
 ## Key Insights
 
 - Customers with month-to-month contracts show higher churn rates.
@@ -46,6 +42,6 @@ The dashboard helps identify factors affecting customer churn, including:
 
 ## Author
 
-Shruti Patil
+Shruti Pal
 
 Power BI | SQL | Python | Data Analytics
